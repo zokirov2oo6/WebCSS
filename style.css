@@ -1,0 +1,26 @@
+.body , h1 ,h2 , h3 ,p , ul {
+    margin:0%;
+    padding:0%;
+}
+#header{
+background-color: coral;
+}
+.container {
+    width: 70%;
+    margin:0 auto;
+}
+#header {
+    color: #fff;
+    font-family: sans-serif;
+    padding: 10px 0%;
+}
+#navbar{
+    background-color: #333;
+}
+#navbar ul li {
+    list-style-type: none;
+    display: inline;
+}
+#navbar ul li a {
+    text-decoration: none;
+}
